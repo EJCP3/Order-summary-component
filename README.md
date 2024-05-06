@@ -13,7 +13,7 @@ Los usuarios deberían poder:
 
 ### Screenshot
 
-![]()
+![movil](/src/img/movil.png)
 
 
 ### Links

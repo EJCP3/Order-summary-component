@@ -20,7 +20,9 @@ module.exports = {
          "Dark-blue": "hsl(223, 47%, 23%)",
       },
 
-     
+      screens: {
+        'pc': '450px',
+      },
 
     },
   },
