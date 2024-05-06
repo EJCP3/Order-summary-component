@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Order summary component</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="shortcut icon" href="img/iconMusic.svg" type="image/x-icon">
+    <link rel="stylesheet" href="css/estilos.css" />
+  </head>
+  <body class="bg-Pale-blue">
+  
+   
+        <main class="font-principal relative" >
+          <picture class="">
+            <source srcset="img/pattern-background-desktop.svg" media="(min-width: 1000px)">
+            <img src="img/pattern-background-mobile.svg" class="w-full" alt="">
+           </picture>
+            <section class=" absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-10 pc:-translate-y-36 max-w-[400px] bg-white w-[80%] m-auto rounded-2xl text-center space-y-5 shadow-2xl">
+                <img src="img/illustration-hero.svg" class="rounded-t-2xl" alt="">
+                <article >
+                    <h1 class="my-4  font-black text-Dark-blue text-2xl ">Order Summary</h1>
+                    <p class="px-5 text-Desaturated-blue font-medium">You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!</p>
+                    <div class="my-8 w-4/5 mx-auto flex justify-around items-center py-4 bg-Very-pale-blue rounded-lg">
+                        <img src="img/iconMusic.svg" alt="">
+                        <p class="flex flex-col-reverse text-sm text-Desaturated-blue font-medium mr-7 pc:mr-24">$59.99/year<span class=" font-black text-Dark-blue">Annual plan </span></p>
+                        <a href="#" class="text-Bright-blue underline underline-offset-1 text-xs font-bold hover:no-underline cursor-pointer hover:opacity-50 " >Change</a>
+                    </div>
+                  
+                </article>
+                <div class="flex flex-col " >
+                  <a class="cursor-pointer bg-Bright-blue rounded-lg mx-auto py-3 mb-4 w-4/5 text-Very-pale-blue font-bold shadow-xl shadow-Bright-blue/30 hover:opacity-60" >Proceed to Payment</a>
+                <a class="cursor-pointer font-bold text-sm pb-10 text-Desaturated-blue  hover:text-Dark-blue"> Cancel Order</a>
+                </div>
+            </section>
+        </main>
+  </body>
+</html>
