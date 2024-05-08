@@ -18,7 +18,7 @@ Los usuarios deberían poder:
 
 ### Links
 
-- URL del sitio activo: 
+- URL del sitio activo: https://ejcp3.github.io/Order-summary-component/
 
 ## Mi proceso
 
