@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card solution
 
-Esta es una solución al desafío de Blog preview card en Frontend Mentor (https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). 
+Esta es una solución al [desafío de la tarjeta de resumen de pedidos en Frontend Mentor] (https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Los desafíos de Frontend Mentor lo ayudan a mejorar sus habilidades de codificación mediante la creación de proyectos realistas.
 
 
 ## Descripción general
@@ -13,12 +13,12 @@ Los usuarios deberían poder:
 
 ### Screenshot
 
-
+![movil](/src/img/movil.png)
 
 
 ### Links
 
-- URL del sitio activo: https://ejcp3.github.io/Order-summary-component/
+- URL del sitio activo: 
 
 ## Mi proceso
 
